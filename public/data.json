@@ -1,0 +1,33 @@
+[
+    {
+        "name":"3 Parts Wardrobe",
+        "price": "35000",
+        "image":"https://i.ibb.co/gRyFbks/f1.jpg"
+    },
+    {
+        "name":"2 Parts Wardrobe",
+        "price": "30000",
+        "image":"https://i.ibb.co/3zRdy8z/f2.jpg"
+    },
+    {
+        "name":"Wardrobe with Mirror ",
+        "price": "28000",
+        "image":"https://i.ibb.co/rsVGVkG/f3.jpg"
+    },
+    {
+        "name":"Chest of Drawer",
+        "price": "25000",
+        "image":"https://i.ibb.co/SJG2p6Y/f4.jpg"
+    },
+    {
+        "name":"Bedside Table",
+        "price": "20000",
+        "image":"https://i.ibb.co/GV23Sd7/f5.jpg"
+    },
+    {
+        "name":"Dressing Table with Mirror ",
+        "price": "23000",
+        "image":"https://i.ibb.co/xhdNhWk/f6.jpg"
+    }
+    
+]
